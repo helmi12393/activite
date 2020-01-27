@@ -1,4 +1,4 @@
-$jQuery(function($){
+jQuery(function($){
 $(".input_txt").focus(function(){
 $(this).css({"width":"230px"});
 
